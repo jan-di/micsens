@@ -2,6 +2,9 @@
 
 Simple tool to keep your microphone input volume at a certain level, even if some applications like Microsoft Teams or Skype like to change the global volume automically.
 
+**This repository is not actively maintained. Use [Schaback/AudioLock](https://github.com/Schaback/AudioLock) as an alternative**
+
+
 ## Usage
 
 1. Copy `settings_sample.ini` to `settings.ini`
